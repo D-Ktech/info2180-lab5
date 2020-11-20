@@ -1,1 +1,56 @@
-/* Add your own styles */
+h1{
+    border-bottom-style: groove;
+    border-bottom-color: rgb(63, 52, 214);
+    border-bottom-width: 18px;
+    text-align: center;
+    text-decoration-color: aqua;
+    border-bottom-left-radius: 345px;
+    border-bottom-right-radius: 345px;
+    background-image: url("worldmap.jpg");
+    background-color: #62cafa;
+}
+
+button{
+     color:rgb(185, 185, 185);
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+#citylookup{
+    background-color: rgb(21, 173, 140);
+
+}
+  
+#lookup{
+    background-color: rgb(21, 173, 140);
+    
+   
+    
+}
+
+#country{
+
+    width: 135px;
+    font-size: 18px;
+    
+       
+}
+
+table{
+    width: 100%;
+    
+}
+
+table th{
+    background-color: #005b96;
+    color: white;
+}
+
+table tr{
+    background-color: #117e4b;
+   
+}
+
+table tr:nth-child(even) {
+  background: #270b69;
+}
